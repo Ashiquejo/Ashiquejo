@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Btech in CS
 - 💞️ I’m looking to collaborate on programms
-- 📫 How to reach me , through insta :- _ashique_jo
+- 📫 LinkedIn :- www.linkedin.com/in/ashique-jo-5681a6334
 
 <!---
 Ashiquejo/Ashiquejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
