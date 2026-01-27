@@ -9,6 +9,13 @@ I am a Computer Science student driven by curiosity and a "dive-in-headfirst" me
 
 ---
 
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashiquejo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashique-jo-5681a6334) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joashique@gmail.com) 
+
+---
+
 ## 💻 Tech Stack & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,11 +56,6 @@ I am a Computer Science student driven by curiosity and a "dive-in-headfirst" me
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiquejo&theme=dark&layout=compact" alt="Top Languages" />
 </p>
-
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashiquejo) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashique-jo-5681a6334) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joashique@gmail.com) 
 
 ---
 <p align="center">
