@@ -42,9 +42,7 @@ I am a Computer Science student driven by curiosity and a "dive-in-headfirst" me
 
 ## 🛠️ Projects & Experience
 
-### 🤖 AI & Robotics
-* **Project Neo** | *Technical Team Member*
-    * Developed a voice-responsive robot using **Raspberry Pi 4B** and **Gemini API** for real-time interaction.
+### 🤖 AI
 * **FarmGrid** | *Hackathon Participant & Presenter*
     * Created an AI-driven agritech solution; served as the lead presenter to explain technical architecture to judges.
 
