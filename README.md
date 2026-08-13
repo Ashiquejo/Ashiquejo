@@ -38,12 +38,12 @@ I build intelligent systems that combine **machine learning, backend engineering
 
 **Multi-Agent Edge AI for Healthcare Monitoring**
 
-Research prototype exploring decentralized AI agents running across edge devices for privacy-aware healthcare monitoring.
+**Research prototype** exploring decentralized AI agents running across edge devices for privacy-aware healthcare monitoring.
 
 **Focus:** `Edge AI` · `Multi-Agent Systems` · `Distributed Inference` · `Raspberry Pi`
 
-**Key engineering work**
-- Designed a multi-agent processing architecture
+**Key engineering work Expected**
+- Designeing a multi-agent processing architecture
 - Explored local inference under constrained compute
 - Separated sensing, inference, coordination, and alerting layers
 - Evaluated latency and resource trade-offs
