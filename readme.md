@@ -1,5 +1,7 @@
 <div align="center">
+  
 # Ashique P Jo
+
 **B.Tech CSE (AI) @ SJCET Palai (2028) | Developer & Tech Communicator**
 
 I am a versatile, curious developer—a "jack of all trades" who enjoys exploring the breadth of software engineering. I leverage AI extensively to learn, build, and prototype, focusing on understanding how different technologies connect rather than claiming mastery over just one. 
