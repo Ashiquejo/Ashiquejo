@@ -1,5 +1,4 @@
 <div align="center">
-
 # Ashique P Jo
 **B.Tech CSE (AI) @ SJCET Palai (2028) | Developer & Tech Communicator**
 
